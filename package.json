@@ -1,0 +1,12 @@
+{
+  "name": "mcp-pdf-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "mcp-pdf-server.js",
+  "scripts": {
+    "start": "node mcp-pdf-server.js"
+  },
+  "dependencies": {
+    // ...
+  }
+}
