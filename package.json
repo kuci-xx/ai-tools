@@ -7,6 +7,5 @@
     "start": "node mcp-pdf-server.js"
   },
   "dependencies": {
-    // ...
   }
 }
