@@ -1,4 +1,4 @@
-# MCP for local books in PDF format
+# MCP-Server for local books in PDF format
 
 MCP PDF Server (single-file JavaScript implementation)
 
